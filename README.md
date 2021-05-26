@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/61516051/119044996-84fa4200-b9d8-11eb-
 
 
 <p align="center">
-    <a href="https://image-hoster-ashish.herokuapp.com/" target="blank">View Demo</a>
+    <a href="https://ashish2030.github.io/Vaccine-near-me/" target="blank">View Demo</a>
     ·
     <a href="https://github.com/ashish2030/Vaccine-near-me/issues/new/choose">Report Bug</a>
     ·
