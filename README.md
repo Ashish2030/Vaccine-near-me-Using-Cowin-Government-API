@@ -1,4 +1,3 @@
-
 <p align="center">
     <a href="https://iread.ga">
         <img src="https://user-images.githubusercontent.com/61516051/125580030-e7dcf43f-b387-4bf4-8e88-980ab54ad0de.png" width="35%">
@@ -6,7 +5,6 @@
 </p>
 
 <div align="center">
-    
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
 <a href="https://reactjs.org/docs/"><img src="https://img.shields.io/badge/Made%20with-Javascript-brightgreen.svg"></a><br>
