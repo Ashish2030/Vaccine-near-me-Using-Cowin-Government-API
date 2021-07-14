@@ -1,8 +1,12 @@
+<br/>
 <p align="center">
     <a href="https://iread.ga">
-        <img src="https://user-images.githubusercontent.com/61516051/125580030-e7dcf43f-b387-4bf4-8e88-980ab54ad0de.png" width="35%">
+        <img src="https://user-images.githubusercontent.com/61516051/125590790-34d29687-89e4-429f-a661-38c4261f5382.png" width="25%">
     </a>
 </p>
+<h1 align="center"> 
+   𝕍𝕒𝕔𝕔𝕚𝕟𝕖 𝕟𝕖𝕒𝕣 𝕞𝕖
+</h1>
 
 <div align="center">
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
