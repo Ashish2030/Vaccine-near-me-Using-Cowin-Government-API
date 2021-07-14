@@ -32,18 +32,16 @@
 
 ## Features of Music Hoster 
  Currently we support the following features :
-* Authentication and Authorization with JWT 
-* Signup Login Page
-* Update Page
-* Show Page
+* Rest API
+* Details of Vaccine Available
 
 ## Technology Stack
 
-**Frontend:** React 
+**Frontend:** HTML ,CSS ,Javascript
 
-**Backend:** Spring 
+**Backend:** Cowin API
 
-**Database:** PostgreSQL  
+
 
 
 
@@ -75,12 +73,7 @@ https://user-images.githubusercontent.com/61516051/119044996-84fa4200-b9d8-11eb-
   * Add a reference to the original repository
     
     `$ git remote add upstream https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API.git`
-  * Install dependencies
-  
-    `$ yarn install`
-  * You are ready to go
-  
-    `$ yarn start`
+
   
 #### 💡️ **Pro Tip:** 
   * Always keep your master branch in sync with the main repository (by running `$ git pull upstream master` on your local master branch). 
