@@ -12,21 +12,19 @@
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
 <a href="https://reactjs.org/docs/"><img src="https://img.shields.io/badge/Made%20with-Javascript-brightgreen.svg"></a><br>
-    
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
 <a href="https://github.com/vigneshshettyin/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API"><img src="https://img.shields.io/github/repo-size/ashish2030/Vaccine-near-me-Using-Cowin-Government-API.svg?label=Repo%20size&style=flat"></a>
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API"><img src="https://img.shields.io/tokei/lines/github/ashish2030/Vaccine-near-me-Using-Cowin-Government-API?color=yellow&label=Lines%20of%20Code"></a>
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MPL_2.0-brightgreen.svg?v=103"></a>
-<a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API/watchers"><img src="https://img.shields.io/github/watchers/ashish2030/Vaccine-near-me-Using-Cowin-Government-API"></a>
-  
+<a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API/watchers"><img src="https://img.shields.io/github/watchers/ashish2030/Vaccine-near-me-Using-Cowin-Government-API"></a><br>
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API/graphs/contributors"><img src="https://img.shields.io/github/contributors/ashish2030/Vaccine-near-me-Using-Cowin-Government-API?color=brightgreen"></a>
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API/stargazers"><img src="https://img.shields.io/github/stars/ashish2030/Vaccine-near-me-Using-Cowin-Government-API?color=0059b3"></a>
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API/network/members"><img src="https://img.shields.io/github/forks/ashish2030/Vaccine-near-me-Using-Cowin-Government-API?color=yellow"></a>
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API/issues"><img src="https://img.shields.io/github/issues/ashish2030/Vaccine-near-me-Using-Cowin-Government-API?color=brightgreen"></a>
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/ashish2030/Vaccine-near-me-Using-Cowin-Government-API?color=0059b3"></a>
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API/pulls"><img src="https://img.shields.io/github/issues-pr/ashish2030/Vaccine-near-me-Using-Cowin-Government-API?color=yellow"></a>
-	<a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API/commits/master"><img src="https://img.shields.io/github/last-commit/ashish2030/Vaccine-near-me-Using-Cowin-Government-API"></a> 
+<a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API/commits/master"><img src="https://img.shields.io/github/last-commit/ashish2030/Vaccine-near-me-Using-Cowin-Government-API"></a> 
 <a href="https://github.com/ashish2030/Vaccine-near-me-Using-Cowin-Government-API/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/ashish2030/Vaccine-near-me-Using-Cowin-Government-API?color=brightgreen"></a> 
 </div>
 :octocat:🌟ᴛʜɪꜱ ɪꜱ ᴀ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴍᴀᴅᴇ ʙʏ ᴍᴇ ᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ᴠᴀᴄᴄɪɴᴇ ᴡʜɪᴄʜ ɪꜱ ᴀᴠᴀɪʟᴀʙʟᴇ ɴᴇᴀʀ ʏᴏᴜ 💻 🎯🚀 
